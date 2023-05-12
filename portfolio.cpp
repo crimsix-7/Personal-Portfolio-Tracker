@@ -3,8 +3,7 @@
 
 I was inspired to do this project due to my passion and interest in the stock market i aim to follow this with a crypto portfolio application in the future.
 
-For this project I created an object-oriented application that can allow yanyone to track financial investments in the stock market.
-Five main classes will be adapted to create this portfolio: Security, Stock, Bond, Portfolio, and Date.
+For this project I created an object-oriented application that can allow anyone to keep track of their financial investments in the stock market.
 
 */
 #include <iostream>
